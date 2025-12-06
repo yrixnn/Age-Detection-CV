@@ -1,6 +1,4 @@
 # Age-Detection-CV
-# Objective:
-To build an age detector that can approximately guess the gender and age of the person (face) in a picture or through a live feed or an uploaded image.
 
 # Background:
 The goal of this project is to develop a system that predicts the age range of individuals in images or real-time video streams using pre-trained deep learning models integrated with OpenCV.
