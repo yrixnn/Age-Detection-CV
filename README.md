@@ -4,7 +4,7 @@ To build an age detector that can approximately guess the gender and age of the 
 
 # Background:
 The goal of this project is to develop a system that predicts the age range of individuals in images or real-time video streams using pre-trained deep learning models integrated with OpenCV.
-Existing works on age detection utilize either handcrafted features or deep learning models. Deep learning approaches, especially convolutional neural networks (CNNs), are trained on large datasets like IMDB-WIKI by using the VGG-16 architecture and are pretrained on ImageNet for image classification. The research stated the key factors to approach the challenges was to implement deep learned models from large data, robust face alignment, and expected value formulation for age regression. By using standard benchmarks and achieving state-of-the-art, they were able to validate the methods on results for both real and apparent age estimation ( Rothe, Timofte, Van Gool, 2016).
+Existing works on age detection utilize either handcrafted features or deep learning models. Deep learning approaches, especially convolutional neural networks (CNNs), are trained on large datasets like IMDB-WIKI by using the VGG-16 architecture and are pretrained on ImageNet for image classification. The research stated the key factors to approach the challenges was to implement deep learned models from large data, robust face alignment, and expected value formulation for age regression. By using standard benchmarks and achieving state-of-the-art, they were able to validate the methods on results for both real and apparent age estimation (Rothe, Timofte, Van Gool, 2016).
 
 
 # Dataset:
