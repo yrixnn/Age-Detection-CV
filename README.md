@@ -17,16 +17,16 @@ Age Ranges: The model predicts eight age ranges:
 pip install sklearn matplotlib
 
 # Required Models:
-face_proto = "opencv_face_detector.pbtxt"
-face_model = "opencv_face_detector_uint8.pb"
-age_proto = "age_deploy.prototxt"
-age_model = "age_net.caffemodel"
+- face_proto = "opencv_face_detector.pbtxt"
+- face_model = "opencv_face_detector_uint8.pb"
+- age_proto = "age_deploy.prototxt"
+- age_model = "age_net.caffemodel"
 
 # Required imports:
-import cv2
-import numpy as np
-from sklearn.metrics import precision_score, recall_score, classification_report, confusion_matrix
-import matplotlib.pyplot as plt
-import seaborn as sns
-import os
+- import cv2
+- import numpy as np
+- from sklearn.metrics import precision_score, recall_score, classification_report, confusion_matrix
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+- import os
 
