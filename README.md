@@ -28,6 +28,10 @@ pip install sklearn matplotlib
 - import seaborn as sns
 - import os
 
+  
+## After uploading all the models, imports, and libraries, download the images of any celabrities and test the model on it. Use Maincodes.py and ageGender.py and just fix the paths of the dowloaded images
+
+
 # Output:
 The ages of the celebrities have been clearly predicted. We chose different types of images with dim lighting and bright lighting to test the model. 
 ![Output Zendaya Image](output_zendaya.jpg)
