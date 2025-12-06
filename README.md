@@ -38,6 +38,6 @@ The ages of the celebrities have been clearly predicted. We chose different type
 # Evalution:
 To evaluate the results, we calculated precision, recall, and F! score and implemented a confusion metrix
 
-!P, R, F1](precision_recall_f1.jpg)
+![P, R, F1](precision_recall_f1.jpg)
 ![CM](confusion_metrix.jpg)
 
