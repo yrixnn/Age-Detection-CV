@@ -33,10 +33,11 @@ pip install sklearn matplotlib
 # Output:
 The ages of the celebrities have been clearly predicted. We chose different types of images with dim lighting and bright lighting to test the model. 
 ![Output Zendaya Image](output_zendaya.jpg)
-![Output Zendaya Image](output_hemworth.jpg)
-![Output Zendaya Image](output_rdj.jpg)
+![Output Hemsworth Image](output_hemworth.jpg)
+![Output RDJ Image](output_rdj.jpg)
 # Evalution:
-To evaluate the results, we calculated precision, recall, and F! score and implemented a confussion metrix
-![Output Zendaya Image](confussion_metrix.jpg)
-![Output Zendaya Image](precision_recall_f1.jpg)
+To evaluate the results, we calculated precision, recall, and F! score and implemented a confusion metrix
+
+!P, R, F1](precision_recall_f1.jpg)
+![CM](confusion_metrix.jpg)
 
