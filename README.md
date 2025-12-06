@@ -31,5 +31,5 @@ pip install sklearn matplotlib
 - import os
 
 # Output:
-   
+![Output Zendaya Image](output_zendaya.png)
 
